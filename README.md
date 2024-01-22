@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **ERP Dot Net Project**
 
-- 🤝 I’m looking for help with **Stack Overflow, Senior Developer**
+- 🤝 I’m looking for help with **Stack Overflow, Junior Developer**
 
 - 👨‍💻 All of my projects are available at [https://mobisheba.com/](https://mobisheba.com/)
 
