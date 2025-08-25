@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shariful islam</h1>
-<img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/a1e49109-d259-4529-b38f-919edabdab8d" />
+
 
 <h3 align="center">A passionate full stack developer at Shakti Foundation</h3>
 
