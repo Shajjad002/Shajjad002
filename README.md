@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shariful islam</h1>
 
-
+<p align="left"><img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/a1e49109-d259-4529-b38f-919edabdab8d" /></p>
 <h3 align="center">A passionate full stack developer at Shakti Foundation</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shajjad002&label=Profile%20views&color=0e75b6&style=flat" alt="shajjad002" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shajjad002" alt="shajjad002" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [E-Commerce](https://github.com/Shajjad002/E-Commerce.git)
 - 🔭 I’m currently working on [Food App Project](https://github.com/Shajjad002/Food.git)
