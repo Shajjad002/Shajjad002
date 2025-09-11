@@ -11,7 +11,7 @@
 
 - 
 
-- 🌱 I’m currently learning **.net,react js**
+- 🌱 I’m currently Working **.net,vue js,razorview**
 
 - 👯 I’m looking to collaborate on **ERP Dot Net Project**
 
