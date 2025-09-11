@@ -4,6 +4,7 @@
 <h3 align="center">A passionate full stack developer at Shakti Foundation</h3>
 
 
+- 🔭 I’m currently working on [Inventory-Dashboard](https://github.com/Shajjad002/Inventory-Dashboard.git) 
 - 🔭 I’m currently working on [E-Commerce](https://github.com/Shajjad002/E-Commerce.git)
 - 🔭 I’m currently working on [Food App Project](https://github.com/Shajjad002/Food.git)
 - 🔭 I’m currently working on [Book Tickets](https://github.com/Shajjad002/book_tickets.git)
