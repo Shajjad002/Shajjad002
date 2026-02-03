@@ -5,10 +5,7 @@
 
 
 - 🔭 I’m currently working on [UserAuthentication](https://github.com/Shajjad002/UserAuthentication.git) 
-- 🔭 I’m currently working on [Inventory-Dashboard](https://github.com/Shajjad002/Inventory-Dashboard.git) 
-- 🔭 I’m currently working on [E-Commerce](https://github.com/Shajjad002/E-Commerce.git)
-- 🔭 I’m currently working on [Food App Project](https://github.com/Shajjad002/Food.git)
-- 🔭 I’m currently working on [Book Tickets](https://github.com/Shajjad002/book_tickets.git)
+
 
 
 - 🌱 I’m currently Working **.net,vue js,razorview**
@@ -16,8 +13,12 @@
 - 👯 I’m looking to collaborate on **ERP Dot Net Project**
 
 - 🤝 I’m looking for help with **Stack Overflow, Junior Developer**
-
-- 👨‍💻 All of my projects are available at [https://mobisheba.com/](https://mobisheba.com/)
+- 
+- 👨‍💻 All of my projects are available at [Shakti ERP](https://erp.shakti.org.bd/)
+- 👨‍💻 All of my projects are available at [Inventory-Dashboard](https://github.com/Shajjad002/Inventory-Dashboard.git) 
+- 👨‍💻 All of my projects are available at[E-Commerce](https://github.com/Shajjad002/E-Commerce.git)
+- 👨‍💻 All of my projects are available at [Food App Project](https://github.com/Shajjad002/Food.git)
+- 👨‍💻 All of my projects are available at [Book Tickets](https://github.com/Shajjad002/book_tickets.git)
 
 - 💬 Ask me about **react,.net,fontend**
 
