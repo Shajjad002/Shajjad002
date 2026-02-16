@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently Working **.net,vue js,razorview**
+- 🌱 I’m currently Working **.net,vue js,angular,razorview**
 
 - 👯 I’m looking to collaborate on **ERP Dot Net Project**
 
@@ -20,7 +20,7 @@
 - 👨‍💻 All of my projects are available at [Food App Project](https://github.com/Shajjad002/Food.git)
 - 👨‍💻 All of my projects are available at [Book Tickets](https://github.com/Shajjad002/book_tickets.git)
 
-- 💬 Ask me about **react,.net,fontend**
+- 💬 Ask me about **react,angular,vue js,.net,fontend**
 
 - 📫 How to reach me **shajjad002@gmail.com**
 
