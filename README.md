@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5616AQFQxgbZ0KOcyw/profile-displaybackgroundimage-shrink_350_1400/B56ZytpjLAIIAY-/0/1772439877159?e=1779926400&v=beta&t=KtQZ2GEmARxrStj7XeYBKSfvjHskXW7yEkLSV1yyFXE" width="100%"  alt="coding animation"/>
-  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" width="750" height="400" alt="coding animation"/>
+  <!-- <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" width="750" height="400" alt="coding animation"/> -->
 </p>
 
 ---
