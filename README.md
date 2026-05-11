@@ -32,7 +32,7 @@ React, Angular, Vue.js, .NET, Frontend Development
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shariful-islam-761622140)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shajjad95)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://fb.com/shajjad007)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/shajjad007)
 
