@@ -48,10 +48,10 @@ C#, .NET, Java, Razor View
 SQL Server, MySQL, MongoDB
 
 **Cloud & DevOps:**  
-Azure, Google Cloud, Firebase, Git
+Azure, Firebase, Git
 
 **Design & Tools:**  
-Photoshop, Illustrator, Postman
+Postman,Swagger
 
 ---
 
