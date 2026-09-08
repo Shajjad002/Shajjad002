@@ -42,7 +42,7 @@ React, Angular, Vue.js, .NET, Frontend Development
 HTML, CSS, Bootstrap, React, Angular, Vue.js
 
 **Backend:**  
-C#, .NET, Java, Razor View
+C#, .NET, Razor Page
 
 **Databases:**  
 SQL Server, MySQL, MongoDB
