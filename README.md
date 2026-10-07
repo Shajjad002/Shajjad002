@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shariful Islam</h1>
 <h3 align="center">A passionate Full Stack Developer at Shakti Foundation</h3>
 <p align="center">
-<img src="https://media.licdn.com/dms/image/v2/D5616AQFQxgbZ0KOcyw/profile-displaybackgroundimage-shrink_350_1400/B56ZytpjLAIIAY-/0/1772439877159?e=1786579200&v=beta&t=AkffZhJa_Z-rJwVeLjbuXsttkYqg8BTOsQpkOlosftw" width="100%"  alt="coding animation"/>
-  <!-- <img src="https://media.licdn.com/dms/image/v2/D5616AQFQxgbZ0KOcyw/profile-displaybackgroundimage-shrink_350_1400/B56ZytpjLAIIAY-/0/1772439877159?e=1786579200&v=beta&t=AkffZhJa_Z-rJwVeLjbuXsttkYqg8BTOsQpkOlosftw"/> -->
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFQxgbZ0KOcyw/profile-displaybackgroundimage-shrink_350_1400/B56ZytpjLAIIAY-/0/1772439877159?e=1793232000&v=beta&t=CuhijEm-sugVCnULPSQTjCyOMfNeylizTx1Euk_xA_g"  alt="coding animation"/>
+
 </p>
 
 ## 🚀 Projects
