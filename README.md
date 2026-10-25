@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shariful Islam</h1>
 <h3>💻 Full Stack Developer at Shakti Foundation</h3>
-<p align="center">
+<p>
   Passionate about building scalable web applications, creating user-friendly experiences, and solving real-world problems through technology.
 </p>
 <p align="center">
