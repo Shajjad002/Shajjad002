@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shariful Islam</h1>
 <h3>💻 Full Stack Developer at Shakti Foundation</h3>
-<p>Passionate about building scalable web applications, creating user-friendly experiences, and solving real-world problems through technology.</p>
+<p align="center">
+  Passionate about building scalable web applications, creating user-friendly experiences, and solving real-world problems through technology.
+</p>
 <p align="center">
 <img src="https://media.licdn.com/dms/image/v2/D5616AQFQxgbZ0KOcyw/profile-displaybackgroundimage-shrink_350_1400/B56ZytpjLAIIAY-/0/1772439877159?e=1793232000&v=beta&t=CuhijEm-sugVCnULPSQTjCyOMfNeylizTx1Euk_xA_g"  alt="coding animation"/>
 
@@ -19,7 +21,8 @@
 ## 🌱 Currently Working On
 - **.NET, Vue.js, Angular, Razor View**
 - Collaborating on **ERP Dot Net Projects**
-- Exploring solutions with **Stack Overflow & Junior Developers**
+- Exploring solutions and sharing knowledge with developers
+- Always learning and exploring new technologie
 
 ---
 
